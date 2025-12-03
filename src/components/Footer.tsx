@@ -61,11 +61,8 @@ const Footer = () => {
             © {new Date().getFullYear()} Untrevo. All rights reserved.
           </p>
           <div className="flex items-center gap-6">
-            <a href="#" className="text-muted-foreground hover:text-foreground transition-colors text-sm">
+            <a href="https://www.linkedin.com/in/aaron-unt" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground transition-colors text-sm">
               LinkedIn
-            </a>
-            <a href="#" className="text-muted-foreground hover:text-foreground transition-colors text-sm">
-              Twitter
             </a>
           </div>
         </div>
