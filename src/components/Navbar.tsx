@@ -36,9 +36,11 @@ const Navbar = () => {
 
           {/* CTA Button */}
           <div className="hidden md:block">
-            <Button variant="hero" size="sm">
-              Get Started
-            </Button>
+            <a href="#services">
+              <Button variant="hero" size="sm">
+                Get Started
+              </Button>
+            </a>
           </div>
 
           {/* Mobile Menu Button */}
@@ -64,9 +66,11 @@ const Navbar = () => {
                   {link.name}
                 </a>
               ))}
-              <Button variant="hero" size="sm" className="w-fit">
-                Get Started
-              </Button>
+              <a href="#services" onClick={() => setIsOpen(false)}>
+                <Button variant="hero" size="sm" className="w-fit">
+                  Get Started
+                </Button>
+              </a>
             </div>
           </div>
         )}
