@@ -24,7 +24,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <div className="text-sm text-muted-foreground">Email</div>
-                    <div className="text-foreground">contact@untrevo.com</div>
+                    <div className="text-foreground">business@untrevo.ee</div>
                   </div>
                 </div>
                 
@@ -34,7 +34,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <div className="text-sm text-muted-foreground">Phone</div>
-                    <div className="text-foreground">+1 (555) 123-4567</div>
+                    <div className="text-foreground">+37255996045</div>
                   </div>
                 </div>
                 
@@ -44,7 +44,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <div className="text-sm text-muted-foreground">Location</div>
-                    <div className="text-foreground">123 Business Ave, Suite 100</div>
+                    <div className="text-foreground">Pärnu maakond, Pärnu linn, Pärnu linn, Väike-Kuke tn 6-8, 80018</div>
                   </div>
                 </div>
               </div>

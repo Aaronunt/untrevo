@@ -47,21 +47,6 @@ const Hero = () => {
             </Button>
           </div>
 
-          {/* Stats */}
-          <div className="grid grid-cols-3 gap-8 mt-20 pt-10 border-t border-border/50 animate-fade-up" style={{ animationDelay: '0.4s' }}>
-            <div>
-              <div className="text-3xl md:text-4xl font-bold text-foreground">500+</div>
-              <div className="text-sm text-muted-foreground mt-1">Clients Served</div>
-            </div>
-            <div>
-              <div className="text-3xl md:text-4xl font-bold text-foreground">98%</div>
-              <div className="text-sm text-muted-foreground mt-1">Satisfaction Rate</div>
-            </div>
-            <div>
-              <div className="text-3xl md:text-4xl font-bold text-foreground">15+</div>
-              <div className="text-sm text-muted-foreground mt-1">Years Experience</div>
-            </div>
-          </div>
         </div>
       </div>
     </section>
