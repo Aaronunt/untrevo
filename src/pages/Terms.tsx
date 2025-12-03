@@ -104,8 +104,8 @@ const Terms = () => {
                 For questions about these Terms of Service, please contact us at:
               </p>
               <p className="text-muted-foreground mt-4">
-                <strong className="text-foreground">Email:</strong> legal@untrevo.com<br />
-                <strong className="text-foreground">Address:</strong> 123 Business Ave, Suite 100
+                <strong className="text-foreground">Email:</strong> business@untrevo.ee<br />
+                <strong className="text-foreground">Address:</strong> Pärnu maakond, Pärnu linn, Pärnu linn, Väike-Kuke tn 6-8, 80018
               </p>
             </section>
           </div>
